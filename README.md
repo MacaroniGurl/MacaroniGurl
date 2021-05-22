@@ -1,5 +1,5 @@
 <h3 align="center">Someone with alot of free time from the UK =w=</h3>
-
+<img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F8f8ba3baeecdf28f3e0fa7d4ce1a8586%2Ftenor.gif%3Fitemid%3D12668750&f=1&nofb=1">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=macaronigurl&label=Profile%20views&color=0e75b6&style=flat" alt="macaronigurl" /> </p>
 
 - 🔭 I’m currently working on **nothing sadly, maybe in the future!**
